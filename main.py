@@ -11,7 +11,7 @@ print(x[1] + x[3])
 #Slicing and dicing
 
 x = ["a", "b", "c", "d"]
-x[:2]
+var = x[:2]
 x[2:]
 x[:]
 
