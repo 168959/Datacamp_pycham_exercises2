@@ -229,9 +229,9 @@ print("Standard Deviation: " + str(stddev))
 corr = np.corrcoef(np_baseball[:,0], np_baseball[:,1])
 print("Correlation: " + str(corr))
 
-# heights and positions are available as lists
+"# heights and positions are available as lists"
 
-# Import numpy
+"# Import numpy"
 import numpy as np
 
 "# Convert positions and heights to numpy arrays: np_positions, np_heights"
